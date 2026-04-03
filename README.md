@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.13+-3670A0?style=flat&logo=python&logoColor=ffdd43)](#)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat)](#)
 
-Realized my file names were brutal. Here's a CLI tool to fix them. It’s safe and has pretty colours.
+A proper file naming structure is the best way to keep your digital life organized. It also improves file indexing, making it easier to find what you need and faster to search your entire system. Unfortunately, manually updating the name of every file on your device is impractical. That’s why kebaber was created—a simple application that lets you rename files efficiently and easily. It runs locally and provides instant previews before changing anything, so you always know your files are safe.
 
 ---
 
