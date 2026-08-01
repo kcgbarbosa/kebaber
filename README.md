@@ -1,4 +1,5 @@
 # kebaber
+"The beauty of things is the result of order and clarity.” — Thomas Aquinas
 
 [![Python](https://img.shields.io/badge/python-3.13+-3670A0?style=flat&logo=python&logoColor=ffdd43)](#)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat)](#)
